@@ -1,7 +1,6 @@
 #Created by: Patricia Sunday
 #Date: September 10, 2025
 import random
-import sys
 
 print('Welcome to Integer Whisperer! - your one stop shop for basic integer insights')
 
