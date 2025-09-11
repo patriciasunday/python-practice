@@ -8,9 +8,9 @@ This repo is an ongoing collection of my Python practice projects. I'm currently
 As the repo expands, it will be organized by folders of difficulty (Easy, Intermediate, Advanced).
 
 This is the current chronological list of projects:
-|   | project | description |
+|   | Project | Description |
 |---|---------|-------------|
-| 1 | Integer Whisperer | simple cli app which analyzes the prime status of user-provided integer |
+| 1 | [Integer Whisperer](https://github.com/patriciasunday/python-practice/tree/main/integer-whisperer) | A simple cli app which analyzes the prime status of user-provided integer |
 | 2 | tbd | tbd |
 
 <br>
