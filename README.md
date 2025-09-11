@@ -11,7 +11,7 @@ This is the current chronological list of projects:
 |   | Project | Description |
 |---|---------|-------------|
 | 1 | [Integer Whisperer](https://github.com/patriciasunday/python-practice/tree/main/integer-whisperer) | A simple cli app which analyzes the prime status of user-provided integer |
-| 2 | tbd | tbd |
+| 2 | [Collatz Sequence](https://github.com/patriciasunday/python-practice/tree/main/collatz_sequence) | tbd |
 
 <br>
 
