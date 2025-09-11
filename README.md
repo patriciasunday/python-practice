@@ -4,7 +4,7 @@
 
 This repo is an ongoing collection of my Python practice projects. I'm currently using \[Automate the Boring Stuff with Python Book](https://automatetheboringstuff.com/3e/) as my primary source for learning! As I continue to develop my understanding of the language, I'll be working on progressively advancing small projects to reinforce and strengthen the skill.
 
-
+<br>
 
 
 
@@ -24,9 +24,7 @@ As the repo expands, it will be organized by folders of difficulty (Easy, Interm
 
 | 2 | tbd | tbd |
 
-
-
-
+<br>
 
 
 
