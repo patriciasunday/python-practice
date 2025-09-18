@@ -11,7 +11,8 @@ This is the current chronological list of projects:
 |   | Project | Description |
 |---|---------|-------------|
 | 1 | [Integer Whisperer](https://github.com/patriciasunday/python-practice/tree/main/integer-whisperer) | A simple cli app which analyzes the prime status of user-provided integer |
-| 2 | [Collatz Sequence](https://github.com/patriciasunday/python-practice/tree/main/collatz_sequence) | A simple cli app which performs the [collatz sequence](https://www.collatztool.com/) on a user-provided integer |
+| 2 | [Collatz Sequence](https://github.com/patriciasunday/python-practice/tree/main/collatz_sequence) | A simple cli app which performs the [collatz sequence](https://automatetheboringstuff.com/3e/chapter4.html#:~:text=the%20following%20tasks.-,The%20Collatz%20Sequence,-Write%20a%20function) on a user-provided integer |
+| 3 | [tbd]() | tbd |
 
 <br>
 
