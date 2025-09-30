@@ -11,8 +11,9 @@ This is the current chronological list of projects:
 |   | Project | Description |
 |---|---------|-------------|
 | 1 | [Integer Whisperer](https://github.com/patriciasunday/python-practice/tree/main/integer-whisperer) | A simple cli app which analyzes the prime status of user-provided integer |
-| 2 | [Collatz Sequence](https://github.com/patriciasunday/python-practice/tree/main/collatz_sequence) | A simple cli app which performs the [collatz sequence](https://automatetheboringstuff.com/3e/chapter4.html#:~:text=the%20following%20tasks.-,The%20Collatz%20Sequence,-Write%20a%20function) on a user-provided integer |
-| 3 | [tbd]() | tbd |
+| 2 | [Collatz Sequence](https://github.com/patriciasunday/python-practice/tree/main/collatz_sequence) | A simple cli app which performs the collatz sequence on a user-provided integer \(taken from [ATBS](https://automatetheboringstuff.com/3e/chapter4.html#:~:text=the%20following%20tasks.-,The%20Collatz%20Sequence,-Write%20a%20function)\)|
+| 3 | [Strong Password Checker](https://github.com/patriciasunday/python-practice/blob/main/regex_programs/checker.py) | A simple cli app which outputs whether a password is strong \(taken from [ATBS](https://automatetheboringstuff.com/3e/chapter9.html#:~:text=Strong%20Password%20Detection)\) |
+| 4 | [String Strip](https://github.com/patriciasunday/python-practice/blob/main/regex_programs/strip.py) | A simple cli app which strips a string of whitespace or specified characters \(taken from [ATBS](https://automatetheboringstuff.com/3e/chapter9.html#:~:text=Regex%20Version%20of%20the%20strip()%20Method)\) |
 
 <br>
 
