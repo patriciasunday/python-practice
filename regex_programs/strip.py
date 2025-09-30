@@ -1,3 +1,5 @@
+import re
+
 #returns a stripped string--imitating the behavior of .strip() method
 def strip_string(string, strip_char=" "):
     print("\nStripping your line...")
