@@ -1,9 +1,9 @@
-import re
+import re, time
 
 #returns a stripped string--imitating the behavior of .strip() method
 def strip_string(string, strip_char=" "):
     print("\nStripping your line...")
-    time.sleep(2)
+    #time.sleep(2) --can uncomment for demo
     rx = re.compile(r"^[%s]+|[%s]+$" %(strip_char, strip_char))
     return rx.sub('', string) #return stripped string
     
